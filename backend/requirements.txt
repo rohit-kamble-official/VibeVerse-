@@ -8,7 +8,7 @@ python-dotenv==1.0.1
 deepface==0.0.93
 tf-keras==2.16.0
 transformers==4.44.2
-torch==2.2.2
+torch==2.9.0
 Pillow==10.4.0
 numpy==1.26.4
 python-multipart==0.0.9
