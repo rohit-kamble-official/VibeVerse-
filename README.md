@@ -277,8 +277,3 @@ ENVIRONMENT=development
 VITE_API_URL=http://localhost:8000/api
 ```
 
----
-
-## 📄 License
-
-MIT — built with ❤️ and good vibes.
